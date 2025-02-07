@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm [Tarun]
 🚀 Tech Explorer | Problem Solver | Builder
-I'm a developer who enjoys working on full stack, IOT, and software projects. 
-![]I like creating practical applications and experimenting with new technologies to see what’s possible.
+I'm a developer who enjoys working on full stack, IOT, and software projects.  
+I like creating practical applications and experimenting with new technologies to see what’s possible.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tarun.kumar06_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunkumar-sivakumar-063120336) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_tarunkumar06_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunsivakumarr@gmail.com) 
