@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm [Tarun]
-🚀 Tech Explorer | Problem Solver | Builder
-I'm a developer who enjoys working on full stack, IOT, and software projects.  
+🚀 Tech Explorer | Problem Solver | Builder </br>
+I'm a developer who enjoys working on full stack, IOT, and software projects.  </br>
 I like creating practical applications and experimenting with new technologies to see what’s possible.
 
 ## 🌐 Socials:
