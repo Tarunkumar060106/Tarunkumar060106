@@ -1,4 +1,5 @@
-# 💫 About Me:
+## 👋 Hey, I'm [Tarun]
+## 🚀 Tech Explorer | Problem Solver | Builder
 I'm currently studying
 
 
