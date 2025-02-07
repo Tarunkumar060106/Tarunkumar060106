@@ -1,7 +1,7 @@
-## 👋 Hey, I'm [Tarun]
+## 👋 Hey, I'm Tarunkumar
 🚀 Tech Explorer | Problem Solver | Builder </br>
-I'm a developer who enjoys working on full stack, IOT, and software projects.  </br>
-I like creating practical applications and experimenting with new technologies to see what’s possible.
+🔹I'm a developer who enjoys working on full stack, IOT, and software projects.  </br>
+🔹I like creating practical applications and experimenting with new technologies to see what’s possible.
 
 ## 🔥 What I’m Working On
 ✍️ Vizhuchelvam - A react-native competitive-exam practice application for Tamil Nadu Model Schools scheme. </br>
@@ -21,9 +21,9 @@ I like creating practical applications and experimenting with new technologies t
 ![](https://github-profile-trophy.vercel.app/?username=Tarunkumar060106&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Hackathons & Competitions:
-Finalist in IoT Final Round at Technex 2025 (IIT Varanasi) </br>
-2nd Round in SIH 2024 </br>
-Winner of IIOT(E-yantra SRM)
+🔹Finalist in IoT Final Round at Technex 2025 (IIT Varanasi) </br>
+🔹2nd Round in SIH 2024 </br>
+🔹Winner of IIOT(E-yantra SRM)
 
 ## 🌱 What’s Next?
 I'm diving deeper into AI, IoT, and digital twin technology, while refining my expertise in web and software development. Always open to collaborations, discussions, and new challenges!
