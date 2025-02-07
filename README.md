@@ -22,7 +22,8 @@ I like creating practical applications and experimenting with new technologies t
 
 ## 🚀 Hackathons & Competitions:
 Finalist in IoT Final Round at Technex 2025 (IIT Varanasi) </br>
-2nd Round in SIH 2024
+2nd Round in SIH 2024 </br>
+Winner of IIOT(E-yantra SRM)
 
 ## 🌱 What’s Next?
 I'm diving deeper into AI, IoT, and digital twin technology, while refining my expertise in web and software development. Always open to collaborations, discussions, and new challenges!
