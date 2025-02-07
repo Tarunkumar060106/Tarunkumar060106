@@ -20,6 +20,10 @@ I like creating practical applications and experimenting with new technologies t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tarunkumar060106&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🚀 Hackathons & Competitions:
+Finalist in IoT Final Round at Technex 2025 (IIT Varanasi) </br>
+2nd Round in SIH 2024
+
 ## 🌱 What’s Next?
 I'm diving deeper into AI, IoT, and digital twin technology, while refining my expertise in web and software development. Always open to collaborations, discussions, and new challenges!
 
