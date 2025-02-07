@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tarunkumar060106
+- 👋 Hi, I’m Tarun
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarunkumar060106/Tarunkumar060106/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarunkumar060106/Tarunkumar060106/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tarunkumar060106/Tarunkumar060106/output/github-snake.svg" />
 </picture>
