@@ -20,6 +20,9 @@ I like creating practical applications and experimenting with new technologies t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tarunkumar060106&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🌱 What’s Next?
+I'm diving deeper into AI, IoT, and digital twin technology, while refining my expertise in web and software development. Always open to collaborations, discussions, and new challenges!
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Tarunkumar060106&icon=0&color=0)](https://visitcount.itsvg.in)
 
