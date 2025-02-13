@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar060106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commits,Stars,PullRequest)
+![](https://github-profile-trophy.vercel.app/?username=Tarunkumar060106-ma&title=Commits,Stars,PullRequest)
 
 ## 🚀 Hackathons & Competitions:
 🔹Finalist in IoT Final Round at Technex 2025 (IIT Varanasi) </br>
