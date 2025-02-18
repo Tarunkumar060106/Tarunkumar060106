@@ -1,11 +1,11 @@
 ## 👋 Hey, I'm Tarunkumar
-🚀 Tech Explorer | Problem Solver | Builder </br>
+🚀 Tech Explorer | Lifelong Learner | Code Craftsman | Innovator </br>
 🔹I'm a developer who enjoys working on full stack, IOT, and software projects.  </br>
 🔹I like creating practical applications and experimenting with new technologies to see what’s possible.
 
 ## 🔥 What I’m Working On
 ✍️ Vizhuchelvam - A competitive-exam practice application for Tamil Nadu Model Schools scheme. </br>
-🏍️ HaloHUD - Smart HUD for safety and navigation. </br>
+🏍️ HaloHUD - Smart HUD for safety and navigation in helmets. </br>
 💻 My Portfolio – Coming Soon 😉
 
 
@@ -22,11 +22,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tarunkumar060106&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ## 🚀 Hackathons & Competitions:
 🔹Finalist in IoT at Technex 2025 (IIT Varanasi) </br>
+🔹Winner of IIOT (E=yantra Labs IITB) </br>
 🔹2nd Round in SIH 2024 </br>
 🔹Winner of IIOT(E-yantra SRM)
 
