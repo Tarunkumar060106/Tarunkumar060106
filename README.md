@@ -23,7 +23,7 @@
 [![](https://visitcount.itsvg.in/api?id=Tarunkumar060106&icon=8&color=0)](https://visitcount.itsvg.in)
 
 ## 🚀 Hackathons & Competitions:
-🔹Finalist in IoT at Technex 2025 (IIT Varanasi) </br>
+🔹Winner in IoT at Technex 2025 (IIT Varanasi) </br>
 🔹Winner of IIOT (E=yantra Labs IITB) </br>
 🔹2nd Round in SIH 2024 </br>
 🔹Winner of IIOT(E-yantra SRM)
