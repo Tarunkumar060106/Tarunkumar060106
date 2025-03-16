@@ -5,7 +5,7 @@
 
 ## 🔥 What I’m Working On
 ✍️ Vizhuchelvam - A competitive-exam practice application for Tamil Nadu Model Schools scheme. </br>
-🏍️ HaloHUD - Smart HUD for safety and navigation in helmets. </br>
+🏍️ HaloHUD - Smart HUD for safety and navigation in helmets. Completed✅</br>
 💻 My Portfolio – Coming Soon 😉
 
 
