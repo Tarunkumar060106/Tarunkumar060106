@@ -26,7 +26,6 @@
 🔹Winner in IoT at Technex 2025 (IIT Varanasi) </br>
 🔹Winner of IIOT (E=yantra Labs IITB) </br>
 🔹2nd Round in SIH 2024 </br>
-🔹Winner of IIOT(E-yantra SRM)
 
 ## 🌱 What’s Next?
 I'm diving deeper into AI, IoT, and digital twin technology, while refining my expertise in web and software development. Always open to collaborations, discussions, and new challenges!
