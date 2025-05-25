@@ -4,7 +4,7 @@
 🔹I like creating practical applications and experimenting with new technologies to see what’s possible.
 
 ## 🔥 What I’m Working On
-✍️ Vizhuchelvam - A competitive-exam practice application for Tamil Nadu Model Schools scheme. </br>
+✍️ Vizhuchelvam - A competitive-exam practice application for Tamil Nadu Model Schools scheme. Completed✅ </br>
 🏍️ HaloHUD - Smart HUD for safety and navigation in helmets. Completed✅</br>
 💻 My Portfolio – Coming Soon 😉
 
