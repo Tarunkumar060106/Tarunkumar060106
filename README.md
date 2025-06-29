@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Tarunkumar
-🚀 Tech Explorer | Lifelong Learner | Code Craftsman | Innovator </br>
+🚀 Tech Explorer | Lifelong Learner | Innovator </br>
 🔹I'm a developer who enjoys working on full stack, IOT, and software projects.  </br>
 🔹I like creating practical applications and experimenting with new technologies to see what’s possible.
 
