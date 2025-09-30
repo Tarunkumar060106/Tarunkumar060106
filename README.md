@@ -4,7 +4,6 @@
 🔹I like creating practical applications and experimenting with new technologies to see what’s possible.
 
 ## 🔥 What I’m Working On
-✍️ Radiant Chat - Fun Chatting Application
 
 
 ## 🌐 Socials:
