@@ -1,6 +1,6 @@
-## 👋 Hey, I'm Tarunkumar
-
-[![tarunkumar.runs-on.dev](https://runs-on.dev/banner/tarunkumar)](https://tarunkumar.runs-on.dev)
-
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-two-flame.vercel.app?user=Tarunkumar060106&theme=react)]
+<a href="https://github.com/Tarunkumar060106">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarunkumar060106/Tarunkumar060106/main/dark_mode.svg">
+    <img alt="Tarunkumar S's GitHub profile card" src="https://raw.githubusercontent.com/Tarunkumar060106/Tarunkumar060106/main/light_mode.svg">
+  </picture>
+</a>
